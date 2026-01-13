@@ -13,15 +13,15 @@ Having recently earned my **Microsoft AI-900 (Azure AI Fundamentals)** certifica
 
 | Module | Status | Key Skills & Tools |
 | :--- | :---: | :--- |
-| **1. Data Analytics Basics for Everyone** | 🏗️ *In Progress* | Data Ecosystem, Mining, Tools |
-| **2. Analyzing Data with Excel** | ⏳ *Planned* | Pivot Tables, VLOOKUP, Dashboards |
-| **3. Data Visualization and Building Dashboards with Excel and Cognos** | ⏳ *Planned* | Charts, Storytelling with Data |
-| **4. Python Basics for Data Science** | ⏳ *Planned* | Pandas, Numpy, Data Structures |
-| **5. Python for Data Science Project** | ⏳ *Planned* | Practical Application & Scraping |
-| **6. SQL for Data Science** | ⏳ *Planned* | Cloud Databases, SQL Queries |
-| **7. Analyzing Data with Python** | ⏳ *Planned* | SciPy, Scikit-learn, Regression |
-| **8. Visualizing Data with Python** | ⏳ *Planned* | Matplotlib, Seaborn, Folium |
-| **9. Data Analytics and Visualization Capstone Project** | ⏳ *Planned* | Real-world Business Case Study |
+| **1. Data Analytics Basics for Everyone** | 🏗️ *In Progress* | Data Ecosystem, Mining vs. Wrangling, Life Cycle |
+| **2. Analyzing Data with Excel** | ⏳ *Planned* | Data Cleaning, Pivot Tables, VLOOKUP|
+| **3. Data Visualization and Building Dashboards with Excel and Cognos** | ⏳ *Planned* | IBM Cognos Analytics, Dashboarding, Data Storytelling, KPI Tracking |
+| **4. Python Basics for Data Science** | ⏳ *Planned* | Python Syntax, Pandas, Numpy, Data Structures, Logic & Loops |
+| **5. Python for Data Science Project** | ⏳ *Planned* | Web Scraping (BeautifulSoup), APIs (yfinance), Data Extraction, Plotting |
+| **6. SQL for Data Science** | ⏳ *Planned* | Relational Databases, SQL Queries (SELECT, JOIN), Cloud DBs (IBM DB2) |
+| **7. Analyzing Data with Python** | ⏳ *Planned* | Exploratory Data Analysis (EDA), Model Development, Scikit-Learn, Regression |
+| **8. Visualizing Data with Python** | ⏳ *Planned* | Matplotlib, Seaborn, Folium (Geospatial), Dash & Plotly (Interactive)|
+| **9. Data Analytics and Visualization Capstone Project** | ⏳ *Planned* | End-to-End Analysis, Data Collection, Model Building, Executive Presentation |
 
 ---
 
