@@ -25,11 +25,25 @@ Having recently earned my **Microsoft AI-900 (Azure AI Fundamentals)** certifica
 
 ---
 
-## 🛠️ Toolstack & Technologies
-- **Languages:** Python (Pandas, Numpy, Matplotlib)
-- **Databases:** SQL (PostgreSQL, IBM DB2)
-- **Tools:** Jupyter Notebooks, VS Code, Excel, GitHub
-- **Concepts:** Data Cleaning, Statistical Analysis, Process Optimization
+## 🛠️ Technical Ecosystem & Value Stream
+
+> "Data is the raw material; efficiency is the refinery."
+
+### 🏎️ The Analysis Engine (Languages & Logic)
+* **Python:** Mastering the art of automation using `Pandas` and `NumPy` to transform raw data into insights.
+* **SQL:** The language of precision. Querying relational databases and `IBM DB2` to extract high-value datasets from complex structures.
+
+### 🧪 The Refining Lab (Processing & Wrangling)
+* **Advanced Excel:** Utilizing `V-XLOOKUP`, `Pivot Tables`, and `Descriptive Statistics` for rapid data cleaning and ad-hoc banking reports.
+* **Data Wrangling:** Expertly moving from "Data Mining" to "Data Cleaning," focusing on reducing *Muda* (waste) in the data preparation phase.
+
+### 📊 The Presentation Suite (Visualization & BI)
+* **Business Intelligence:** Crafting executive-grade dashboards with `IBM Cognos` to track and visualize critical KPIs.
+* **Data Storytelling:** Using `Matplotlib`, `Seaborn`, and `Plotly` to create interactive "visual narratives" that drive E-commerce strategy and consumer insights.
+
+### 🏗️ The Infrastructure (Environment & Method)
+* **Tech Stack:** `Jupyter Notebooks`, `VS Code`, and `GitHub` for version-controlled, reproducible research.
+* **Strategic Mindset:** Driving all projects with a **Lean Six Sigma** approach to process efficiency and a **Scrum** framework for iterative, high-value delivery.
 
 ---
 
