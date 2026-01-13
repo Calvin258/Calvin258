@@ -13,15 +13,15 @@ Having recently earned my **Microsoft AI-900 (Azure AI Fundamentals)** certifica
 
 | Module | Status | Key Skills & Tools |
 | :--- | :---: | :--- |
-| **1. Introduction to Data Analytics** | 🏗️ *In Progress* | Data Ecosystem, Mining, Tools |
-| **2. Excel for Data Analysis** | ⏳ *Planned* | Pivot Tables, VLOOKUP, Dashboards |
-| **3. Data Visualization with Excel/BI** | ⏳ *Planned* | Charts, Storytelling with Data |
-| **4. Python for Data Science & AI** | ⏳ *Planned* | Pandas, Numpy, Data Structures |
-| **5. Python Project for Data Science** | ⏳ *Planned* | Practical Application & Scraping |
-| **6. Databases and SQL for Data Science** | ⏳ *Planned* | Cloud Databases, SQL Queries |
-| **7. Data Analysis with Python** | ⏳ *Planned* | SciPy, Scikit-learn, Regression |
-| **8. Data Visualization with Python** | ⏳ *Planned* | Matplotlib, Seaborn, Folium |
-| **9. Final Capstone Project** | ⏳ *Planned* | Real-world Business Case Study |
+| **1. Data Analytics Basics for Everyone** | 🏗️ *In Progress* | Data Ecosystem, Mining, Tools |
+| **2. Analyzing Data with Excel** | ⏳ *Planned* | Pivot Tables, VLOOKUP, Dashboards |
+| **3. Data Visualization and Building Dashboards with Excel and Cognos** | ⏳ *Planned* | Charts, Storytelling with Data |
+| **4. Python Basics for Data Science** | ⏳ *Planned* | Pandas, Numpy, Data Structures |
+| **5. Python for Data Science Project** | ⏳ *Planned* | Practical Application & Scraping |
+| **6. SQL for Data Science** | ⏳ *Planned* | Cloud Databases, SQL Queries |
+| **7. Analyzing Data with Python** | ⏳ *Planned* | SciPy, Scikit-learn, Regression |
+| **8. Visualizing Data with Python** | ⏳ *Planned* | Matplotlib, Seaborn, Folium |
+| **9. Data Analytics and Visualization Capstone Project** | ⏳ *Planned* | Real-world Business Case Study |
 
 ---
 
